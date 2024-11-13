@@ -72,6 +72,6 @@ This web-based application gives potential customers of Air Conditioner Repair a
    ```php
    <?php echo password_hash('newpassword123', PASSWORD_DEFAULT); ?>
    ```
-2. Save the file and place it in your XAMPP htdocs folder and run it in your browser (http://localhost/generate_hash.php) if using XAMPP, or use an online PHP editor.
+2. Save the file and place it in your XAMPP htdocs folder and run it in your browser (http://localhost/generate_hash.php)
 3. Copy the generated hash.
 4. In phpMyAdmin, replace the admin password with the new hash and save.(in acrss_db)
