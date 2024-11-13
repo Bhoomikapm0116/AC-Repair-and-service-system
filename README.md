@@ -65,7 +65,7 @@ This web-based application gives potential customers of Air Conditioner Repair a
 
 - **Username**: admin
 - **Password**: sourcecodester&123
-# Here's the updated version with instructions on what to do if the default password doesn't work:
+# What to do if the default password doesn't work:
 ## How to Generate a Password Hash
 
 1. Create a PHP file (`generate_hash.php`) with this code:
