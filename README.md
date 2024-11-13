@@ -51,3 +51,17 @@ This web-based application gives potential customers of Air Conditioner Repair a
    https://github.com/Bhoomikapm0116/AC-Repair-and-service-system.git
 3. Set up the MySQL database in XAMPP and configure the config.php file.
 4. tart XAMPP, open the project in a browser, and begin testing.
+## System Installation/Setup
+
+1. **Enable the GD Library** in your `php.ini` file.
+2. Open your XAMPP Control Panel and start **Apache** and **MySQL**.
+3. Extract the downloaded source code zip file.
+4. Copy the extracted source code folder and paste it into the **XAMPP's "htdocs"** directory.
+5. Open **PHPMyAdmin** in your browser by visiting: [http://localhost/phpmyadmin](http://localhost/phpmyadmin)
+6. Create a new database named `acrss_db`.
+7. Import the provided SQL file: `acrss_db.sql` located inside the **database** folder.
+8. Finally, browse the **AC Repair and Services System** in your browser at: [http://localhost/php-acrss/](http://localhost/php-acrss/)
+## Default Admin Access
+
+- **Username**: admin
+- **Password**: sourcecodester&123
