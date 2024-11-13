@@ -1,1 +1,2 @@
 # AC-Repair-and-service-system
+This web-based application gives potential customers of Air Conditioner Repair and Services Company an online platform to schedule a service request. MySQL and PHP were the primary development tools used for this project. It uses the NiceAdmin Template and the Bootstrap 5 Framework to provide a pleasing user experience. The project has a number of features and functionalities that are easy to use.
