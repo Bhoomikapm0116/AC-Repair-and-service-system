@@ -45,5 +45,9 @@ This web-based application gives potential customers of Air Conditioner Repair a
 - **Basic Knowledge of HTML, CSS, and JavaScript**: Needed to understand the front-end parts of the project.
 - **PHP**: Required for running the back-end code that powers the app’s functionality.
 - **MySQL**: Necessary for managing the database where project data is stored.
-
-
+# Installation
+1. Install XAMPP
+2. Clone the repository:
+   git clone https://github.com/Bhoomikapm0116/AC-Repair-and-service-system.git
+3. Set up the MySQL database in XAMPP and configure the config.php file.
+4. tart XAMPP, open the project in a browser, and begin testing.
