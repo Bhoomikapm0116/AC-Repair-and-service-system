@@ -51,7 +51,7 @@ This web-based application gives potential customers of Air Conditioner Repair a
    https://github.com/Bhoomikapm0116/AC-Repair-and-service-system.git
 3. Set up the MySQL database in XAMPP and configure the config.php file.
 4. tart XAMPP, open the project in a browser, and begin testing.
-## System Installation/Setup
+## System Setup
 
 1. **Enable the GD Library** in your `php.ini` file.
 2. Open your XAMPP Control Panel and start **Apache** and **MySQL**.
