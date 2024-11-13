@@ -65,3 +65,13 @@ This web-based application gives potential customers of Air Conditioner Repair a
 
 - **Username**: admin
 - **Password**: sourcecodester&123
+# Here's the updated version with instructions on what to do if the default password doesn't work:
+## How to Generate a Password Hash
+
+1. Create a PHP file (`generate_hash.php`) with this code:
+   ```php
+   <?php echo password_hash('newpassword123', PASSWORD_DEFAULT); ?>
+   ```
+2. Save the file and place it in your XAMPP htdocs folder and run it in your browser (http://localhost/generate_hash.php) if using XAMPP, or use an online PHP editor.
+3. Copy the generated hash.
+4. In phpMyAdmin, replace the admin password with the new hash and save.(in acrss_db)
